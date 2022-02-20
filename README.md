@@ -1,19 +1,25 @@
-### Hello I'm Mythic
 
-<br />
+## Hey 👋, I'm Mythic! ![](https://komarev.com/ghpvc/?username=MythicGaming5900&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/68b7NxyxvJ) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://pornhub.com/)
 
-- FiveM Script Developer 
-- Discord Bot Developer
+```js
+async function pussy() {
+  let languages = ['JavaScript', 'Lua', 'C#', 'NodeJS', 'ExpressJS', 'HTML/CSS'];
+  let lifeStoryPart1 = `I have a life so ya`;
+  let lifeStoryPart2 = `I code sometimes`;
+  let lifeStoryPart3 = `Currently a better dev than NAT2K15 and Astra development`;
 
-<br />
 
-<img align="left" alt="Mythic's Most Used Languages:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MythicGaming5900" />
-<img align="left" alt="Mythic's Statistics" src="https://github-readme-stats.vercel.app/api?username=MythicGaming5900&show_icons=true&hide_border=true" />
+}
+```
 
-<br />
+<p align="center">
+<a href="https://github.com/MythicGaming5900">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MythicGaming5900&show_icons=true&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MythicGaming5900&layout=compact&langs_count=8&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MythicGaming5900&fire=5865F2&fire=5865F2&currStreakNum=ffffff&sideLabels=5865F2&currStreakLabel=5865F2&stroke=5865F2&sideNums=ffffff&dates=ffffff&border=ffffff&text_color=FFFFFF&background=171B23" /></a>
+</a>
+</p>
+ 
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+---
